@@ -10,7 +10,7 @@ IMPORTANTE:
 Esse número pode ser informado através de qualquer entrada de sua preferência ou pode ser previamente definido no código;
 
 
-#exercicio 5: 
+# exercicio 5: 
 
 Escreva um programa que inverta os caracteres de um string.
 
