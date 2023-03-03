@@ -11,6 +11,7 @@ Esse número pode ser informado através de qualquer entrada de sua preferência
 
 
 #exercicio 5: 
+
 Escreva um programa que inverta os caracteres de um string.
 
 
